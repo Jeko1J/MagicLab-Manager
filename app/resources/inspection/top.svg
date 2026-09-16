@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
+<rect width="800" height="440" fill="#f3f4f5"/>
+<g fill="none" stroke="#535d68" stroke-width="3" stroke-linejoin="round">
+<path fill="#e4e7ea" d="M185 105 Q140 110 135 160 L135 280 Q140 330 185 335 L622 335 Q674 326 680 284 L680 156 Q674 114 622 105 Z"/>
+<path d="M178 108 L178 332 M646 111 L646 329 M580 115 L580 325 M255 116 L255 324"/>
+<path fill="#f3f4f5" d="M302 129 L450 129 L487 152 L487 288 L450 311 L302 311 L270 286 L270 154 Z"/>
+<path d="M451 130 L486 151 L486 289 L451 310 Z M301 130 L271 153 L271 286 L301 310 Z M371 129 L371 311"/>
+<path d="M286 113 L455 113 M286 327 L455 327 M366 105 L366 126 M366 314 L366 335"/>
+<path fill="#c9ced4" d="M466 103 L476 79 L499 81 L495 107 M466 337 L476 361 L499 359 L495 333"/>
+<path d="M603 128 L644 139 M603 312 L644 301 M199 130 L225 133 M199 310 L225 307"/>
+<path stroke-dasharray="7 8" stroke="#a5adb5" d="M100 220 L708 220"/>
+</g><g fill="#535d68" font-family="sans-serif" font-size="18"><text x="611" y="390">ПЕРЕД →</text><text x="270" y="58">ЛЕВАЯ СТОРОНА</text><text x="270" y="400">ПРАВАЯ СТОРОНА</text></g></svg>

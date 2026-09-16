@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
+<rect width="800" height="440" fill="#f3f4f5"/>
+<g transform="translate(800 0) scale(-1 1)" fill="none" stroke="#535d68" stroke-width="3" stroke-linejoin="round">
+<path fill="#e4e7ea" d="M92 282 L94 223 L191 198 L272 122 Q286 109 310 109 L461 109 Q485 110 502 128 L570 196 L687 216 L707 247 L707 286 L656 299 A49 49 0 0 0 557 299 L256 299 A49 49 0 0 0 157 299 L105 296 Z"/>
+<path fill="#f3f4f5" d="M221 196 L285 132 L366 132 L366 196 Z M385 132 L459 132 L525 196 L385 196 Z"/>
+<path d="M212 211 L273 205 L367 205 L367 283 L260 283 M384 205 L533 205 L536 280 L384 283 Z M188 199 L179 246 M572 198 L563 255 M284 220 L310 220 M481 220 L507 220 M271 295 L541 295"/>
+<path d="M94 245 L131 239 L137 254 L95 260 M657 222 L691 230 L699 246 L653 240"/>
+<path fill="#c9ced4" d="M518 192 L542 181 L556 191 L547 208 L525 206 Z"/>
+<circle cx="207" cy="299" r="42" fill="#f3f4f5"/><circle cx="207" cy="299" r="24"/>
+<circle cx="606" cy="299" r="42" fill="#f3f4f5"/><circle cx="606" cy="299" r="24"/>
+<path stroke="#a5adb5" d="M72 344 L730 344"/>
+</g><text x="95" y="391" fill="#535d68" font-family="sans-serif" font-size="18">← ПЕРЕД</text></svg>
