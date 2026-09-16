@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
+<rect width="800" height="440" fill="#f3f4f5"/>
+<g fill="none" stroke="#535d68" stroke-width="3" stroke-linejoin="round">
+<path fill="#e4e7ea" d="M211 202 L251 114 Q258 96 281 94 L519 94 Q542 96 549 114 L589 202 L609 239 L609 305 Q603 325 580 325 L220 325 Q197 325 191 305 L191 239 Z"/>
+<path fill="#f3f4f5" d="M252 185 L280 116 L520 116 L548 185 Z"/>
+<path d="M214 205 L586 205 M261 211 L261 273 L539 273 L539 211 M214 286 L587 286"/>
+<path fill="#c9ced4" d="M209 219 L296 219 L296 244 L209 250 Z M591 219 L504 219 L504 244 L591 250 Z"/>
+<rect x="336" y="228" width="128" height="32" fill="#f3f4f5"/>
+<path d="M211 304 L260 304 M540 304 L589 304 M206 325 L206 346 L257 346 L257 325 M543 325 L543 346 L594 346 L594 325"/>
+<path fill="#c9ced4" d="M217 190 L187 183 L177 195 L181 210 L211 214 M583 190 L613 183 L623 195 L619 210 L589 214"/>
+</g><g fill="#535d68" font-family="sans-serif" font-size="18"><text x="192" y="388">ЛЕВАЯ</text><text x="532" y="388">ПРАВАЯ</text></g></svg>
