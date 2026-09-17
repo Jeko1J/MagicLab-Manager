@@ -47,7 +47,5 @@ py -3 -m venv .venv
 ## Документация
 
 - [Руководство пользователя](docs/user_guide.md)
-- [Роли и доступ](docs/roles.md)
 - [Осмотр ЛКП и резервные копии](docs/inspection.md)
 - [Экспорт календаря](docs/calendar_export.md)
-- [Работа с Git](docs/git_workflow.md)
